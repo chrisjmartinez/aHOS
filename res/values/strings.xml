@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HOSActivity!</string>
+    <string name="app_name">HOS</string>
+	<string name="UserLabel">User</string>
+	<string name="LatLabel">Latitude</string>
+	<string name="LonLabel">Longitude</string>
+	<string name="cacheLimit">100</string>
+</resources>
